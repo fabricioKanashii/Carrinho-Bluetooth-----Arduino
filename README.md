@@ -1,6 +1,6 @@
 # Carrinho Robótico Bluetooth
 
-Projeto de um **carrinho robótico controlado remotamente via Bluetooth**, utilizando Arduino, ponte H e motores DC para realizar movimentos de forma independente.
+Projeto de um **carrinho robótico controlado remotamente via Bluetooth**, utilizando Arduino, ponte H e motores DC para realizar movimentos pelo Bluetooth.
 
 ## Sobre o Projeto
 
